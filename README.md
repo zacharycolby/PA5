@@ -1,4 +1,4 @@
-# PA5
+# PA5 - Scare_Games
 
 This is a recent class project completed for school, with the prompt of creating a working scare game tournament. 
 Depending on the given command-line argument given, the program will run either a single-elimination tournament, or a double elimination tournament which includes a losers' bracket.
